@@ -1,0 +1,13 @@
+# Executable files
+bloom_filter_exec
+
+# Compiled object files
+*.o
+
+
+
+.DS_Store
+
+# Logs and data output
+*.csv
+query_log.csv
